@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\Classexample.exe
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\Classexample.deps.json
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\Classexample.runtimeconfig.json
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\Classexample.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\Classexample.dll
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\ref\Classexample.dll
+C:\Users\hp\source\repos\Classexample\Classexample\bin\Debug\net5.0\Classexample.pdb
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.AssemblyInfo.cs
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.dll
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\ref\Classexample.dll
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.pdb
+C:\Users\hp\source\repos\Classexample\Classexample\obj\Debug\net5.0\Classexample.genruntimeconfig.cache
