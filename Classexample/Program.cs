@@ -24,9 +24,31 @@ namespace Classexample
             r.Display();*/
 
             //Abstraction Example
-            RectangleShape r = new RectangleShape();
-            r.Get();
-            r.Area();
+            /* RectangleShape r = new RectangleShape();
+             r.Get();
+             r.Area();
+            */
+
+
+            //Polymorphism -- Method OverLoading Example
+            MethodOverLoding ml = new MethodOverLoding();
+            ml.Add(5, 10);
+            ml.Add(5, 10, 15);
+            ml.Add(5.5f,2.5f);
+
+
+
+
+            // Polymorphism -- Method Overriding Example 
+            /* MethodOverriding m = new MethodOverriding();
+              MethodOverriding m1 = new XYZ();
+              MethodOverriding m2 = new ABC();
+              m.Display();
+              m1.Display();
+              m2.Display();
+            */
+
+
 
         }
 
